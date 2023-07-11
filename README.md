@@ -4,7 +4,7 @@ Yet another simple terminal emulator for pure X
 ## Features
 
 - Minimalistic dependencies
-- Compatible with XTerm
+- Compatible with XTerm, so far it makes sense
 - GPU acceleration, switchable
 - Simple configuration via .Xresources
 - Good default keybindings
