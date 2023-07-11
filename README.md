@@ -13,5 +13,6 @@ Yet another simple terminal emulator for pure X
 ## Requirements to build
 - C++ compiler supports C++-17 or higher like g++, clang++
 - GNU Make
-- Xorg headers, libs and so on.
+- SFML Headers and Library
+
   
