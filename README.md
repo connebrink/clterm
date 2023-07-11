@@ -5,8 +5,8 @@ Yet another simple terminal emulator for pure X
 
 - Minimalistic dependencies
 - Compatible with XTerm
-- GPU Accerleration switchable
-- Simple configuration via XResource
+- GPU acceleration, switchable
+- Simple configuration via .Xresources
 - Good default keybindings
 
 ## Requirements to build
